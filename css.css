@@ -3,7 +3,7 @@ table {
   border-width: 5px;
 }
 table td, table th {
-  border: 2px solid black;
+  border: 2px solid red;
 }
 table tr:first-child td {
   border-top: 0;
