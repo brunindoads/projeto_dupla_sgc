@@ -22,5 +22,5 @@ td{
 	height: 150px;
 }
 table td:hover {
-	border: 2px double yellow !important;
+	border: 2px double orange !important;
 }
