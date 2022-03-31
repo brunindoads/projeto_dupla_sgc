@@ -18,8 +18,8 @@ table tr td:last-child{
   border-right: 0;
 }
 td{
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200px;
 }
 table td:hover {
 	border: 5px double yellow !important;
