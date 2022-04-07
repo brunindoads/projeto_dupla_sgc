@@ -1,0 +1,23 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: justify;
+}
+
+div{
+	margin: 0 auto;
+	max-width: 500px;
+	padding: 10px;
+	border: solid black;
+
+}
+
+hr {
+  border: none;
+  background: black;
+  height: 2px;
+}
+
+img{
+	width: 500px;
+	height: auto;
+}
